@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="error">#EF4444</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="teal_primary">#0D7377</color>
+    <color name="teal_dark">#0A5C5F</color>
+    <color name="teal_light">#14A3A8</color>
+    <color name="navy">#0A3D62</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#F8FAFC</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="black">#000000</color>
+    <color name="success">#10B981</color>
+</resources>

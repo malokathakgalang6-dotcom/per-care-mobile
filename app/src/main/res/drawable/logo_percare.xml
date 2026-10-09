@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Circle background -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#0D7377"/>
+            <size
+                android:width="96dp"
+                android:height="96dp"/>
+        </shape>
+    </item>
+
+    <!-- White inner circle -->
+    <item
+        android:top="8dp"
+        android:bottom="8dp"
+        android:left="8dp"
+        android:right="8dp">
+        <shape android:shape="oval">
+            <solid android:color="#FFFFFF"/>
+        </shape>
+    </item>
+
+    <!-- Teal center -->
+    <item
+        android:top="20dp"
+        android:bottom="20dp"
+        android:left="20dp"
+        android:right="20dp">
+        <shape android:shape="oval">
+            <solid android:color="#0D7377"/>
+        </shape>
+    </item>
+
+</layer-list>
